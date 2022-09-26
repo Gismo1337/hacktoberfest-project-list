@@ -67,6 +67,7 @@ Don't forget to heart, unicorn and save the dev.to article to spread your projec
 ## L
 
 - [LexicalRichness](https://github.com/LSYS/LexicalRichness)
+- [Live Simuator](https://github.com/fungamer2-2/Life-Simulator1)
 
 ## M
 
