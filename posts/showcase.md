@@ -1,6 +1,6 @@
 ---
 title: Hacktoberfest Projectlist Showcase
-published: false
+published: true
 description: A interactive showcase of Hacktoberfest Projects. Contribute to the repositories will be merged live into this dev.to article!
 tags: 'hacktoberfest, webdev, programming'
 cover_image: ./assets/banner_dark.png
