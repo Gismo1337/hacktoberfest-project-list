@@ -38,7 +38,7 @@ jobs:
         # (Optional) The files to publish. Default is "posts/**/*.md"
         files: 'posts/**/*.md'
         # (Optional) The git branch to use. Default is 'main'.
-        branch: main
+        branch: master
         # (Optional) Use conventional commit messages. Default is false.
         # See https://www.conventionalcommits.org. 
         conventional_commits: true
