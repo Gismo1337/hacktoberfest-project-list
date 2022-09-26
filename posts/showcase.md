@@ -5,7 +5,6 @@ description: A interactive showcase of Hacktoberfest Projects. Contribute to the
 tags: 'hacktoberfest, webdev, programming'
 cover_image: ./assets/banner_dark.png
 canonical_url: null
-date: '2022-04-13T20:52:32Z'
 ---
 
 # The Interactive Hacktoberfest Projectlist Showcase
