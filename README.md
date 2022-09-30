@@ -1,4 +1,4 @@
-# interactive-portfolio-showcase
+# interactive hacktoberfest projectlist
 
 Share your skills with the whole world and publish your portfolio directly on dev.to! Merge into main are automatically published to dev.to. Feel free to contribute.
 
