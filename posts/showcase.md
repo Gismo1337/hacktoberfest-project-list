@@ -72,6 +72,10 @@ Don't forget to heart, unicorn and save the dev.to article to spread your projec
 
 ## C
 
+- [CXXAutomata](https://github.com/ZigRazor/CXXAutomata)
+- [CXXGraph](https://github.com/ZigRazor/CXXGraph)
+- [CXXMicroService](https://github.com/ZigRazor/CXXMicroService)
+
 ## D
 
 ## E
@@ -101,12 +105,15 @@ Don't forget to heart, unicorn and save the dev.to article to spread your projec
 ## M
 
 - [Miru Web](https://github.com/saeloun/miru-web)
+- [MTL](https://github.com/ZigRazor/MTL)
 
 ## N
 
 ## O
 
 ## P
+
+- [PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
 
 ## Q
 
