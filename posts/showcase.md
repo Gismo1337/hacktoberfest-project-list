@@ -154,6 +154,7 @@ Don't forget to heart, unicorn and save the dev.to article to spread your projec
 
 ## T
 - [Tech Dev Tooling](https://github.com/thisdot/tech-dev-tooling)
+- [TheAlgorithms - Python](https://github.com/TheAlgorithms/Python)
 - [Todo List](https://github.com/Rick-mad-lab/Todolist/issues)
 
 ## U
