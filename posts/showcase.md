@@ -84,6 +84,7 @@ Don't forget to heart, unicorn and save the dev.to article to spread your projec
 - [Dummygram](https://github.com/narayan954/dummygram/)
 
 ## E
+- [Example GRPC Cross Language](https://github.com/rizkyian78/grpc_cross_language)
 
 ## F
 - [Free-Web3-Resources](https://github.com/FrancescoXX/free-Web3-resources)
