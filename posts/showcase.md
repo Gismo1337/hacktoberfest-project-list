@@ -67,11 +67,14 @@ Don't forget to heart, unicorn and save the dev.to article to spread your projec
 ## A
 
 - [Apache SkyWalking](https://github.com/apache/skywalking)
+- [Appwrite](https://github.com/appwrite/appwrite)
+- 
 - [Amibot](https://github.com/asetalias/amibot)
 - [Aec Library Website](https://github.com/SauravMukherjee44/Aec-Library-Website/issues)
 
 ## B
 - [Books World](https://github.com/arunn0909/BooksWorld/issues)
+- [Boxyhq](https://github.com/boxyhq/hacktoberfest-22)
 
 ## C
 - [Code-Magic](https://github.com/Dun-sin/Code-Magic)
@@ -82,6 +85,7 @@ Don't forget to heart, unicorn and save the dev.to article to spread your projec
 
 ## D
 - [Dummygram](https://github.com/narayan954/dummygram/)
+- [Defaang](https://github.com/ykdojo/defaang)
 
 ## E
 - [Example GRPC Cross Language](https://github.com/rizkyian78/grpc_cross_language)
@@ -127,6 +131,7 @@ Don't forget to heart, unicorn and save the dev.to article to spread your projec
 ## N
 
 ## O
+- [Open source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 
 ## P
 - [Proectmate](https://github.com/rohitdasu/projectmate)
@@ -145,6 +150,7 @@ Don't forget to heart, unicorn and save the dev.to article to spread your projec
 ## S
 
 - [ScratchTools](https://github.com/STForScratch/ScratchTools/)
+- [Speckle](https://github.com/specklesystems)
 
 ## T
 - [Tech Dev Tooling](https://github.com/thisdot/tech-dev-tooling)
