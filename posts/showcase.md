@@ -60,27 +60,35 @@ Don't forget to heart, unicorn and save the dev.to article to spread your projec
 
 ---
 
-**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
+**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Others](#others)
 
 ---
 
 ## A
 
 - [Apache SkyWalking](https://github.com/apache/skywalking)
+- [Amibot](https://github.com/asetalias/amibot)
+- [Aec Library Website](https://github.com/SauravMukherjee44/Aec-Library-Website/issues)
 
 ## B
+- [Books World](https://github.com/arunn0909/BooksWorld/issues)
 
 ## C
-
+- [Code-Magic](https://github.com/Dun-sin/Code-Magic)
+- [Cosmos](https://github.com/OpenGenus/cosmos/issues)
 - [CXXAutomata](https://github.com/ZigRazor/CXXAutomata)
 - [CXXGraph](https://github.com/ZigRazor/CXXGraph)
 - [CXXMicroService](https://github.com/ZigRazor/CXXMicroService)
 
 ## D
+- [Dummygram](https://github.com/narayan954/dummygram/)
 
 ## E
 
 ## F
+- [Free-Web3-Resources](https://github.com/FrancescoXX/free-Web3-resources)
+- [Frontend](https://github.com/KwickerHub/frontend)
+- [Flutter Native Logs](https://github.com/Goddchen/flutter_native_logs)
 
 ## G
 
@@ -90,15 +98,21 @@ Don't forget to heart, unicorn and save the dev.to article to spread your projec
 ## H
 
 - [Hyoka](https://github.com/olamide203/hyoka)
+- [Hacktoberfest2022](https://github.com/Anubhav-Goyal01/Hacktoberfest2022)
+- [Hello World](https://github.com/Chirag-Mathur/hello-world)
+- [Hacktoberfest22 Hotel Manderin Oriental](https://github.com/ShrutiMishra-2002/hacktoberfest22_hotel_mandarin_oriental/)
 
 ## I
+- [IoT-forBeginners](https://github.com/microsoft/IoT-For-Beginners)
 
 ## J
 
 ## K
+- [Kipper](https://github.com/Luna-Klatzer/Kipper)
 
 ## L
-
+- [LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+- [Leaflet](https://github.com/Leaflet/Leaflet/issues)
 - [LexicalRichness](https://github.com/LSYS/LexicalRichness)
 - [Live Simuator](https://github.com/fungamer2-2/Life-Simulator1)
 
@@ -106,16 +120,21 @@ Don't forget to heart, unicorn and save the dev.to article to spread your projec
 
 - [Miru Web](https://github.com/saeloun/miru-web)
 - [MTL](https://github.com/ZigRazor/MTL)
+- [MultiEmail Backend](https://github.com/MultiEmail/MultiEmail-backend)
+- [Milan](https://github.com/IAmTamal/Milan/)
 
 ## N
 
 ## O
 
 ## P
-
+- [Proectmate](https://github.com/rohitdasu/projectmate)
 - [PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
+- [Pollitup](https://github.com/agamjotsingh18/pollitup)
+- [Python DSA](https://github.com/BeeBombshell/Python-DSA/issues)
 
 ## Q
+- [Quelea](https://github.com/quelea-projection/Quelea/issues)
 
 ## R
 
@@ -127,10 +146,13 @@ Don't forget to heart, unicorn and save the dev.to article to spread your projec
 - [ScratchTools](https://github.com/STForScratch/ScratchTools/)
 
 ## T
+- [Tech Dev Tooling](https://github.com/thisdot/tech-dev-tooling)
+- [Todo List](https://github.com/Rick-mad-lab/Todolist/issues)
 
 ## U
 
 ## V
+- [vbay](https://github.com/csivitu/vbay)
 
 ## W
 
@@ -141,6 +163,9 @@ Don't forget to heart, unicorn and save the dev.to article to spread your projec
 ## Y
 
 ## Z
+
+## others
+- [404-template](https://github.com/tsparticles/404-templates)
 
 ### Special Thanks to:
 
