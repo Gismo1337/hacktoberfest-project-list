@@ -152,6 +152,7 @@ Don't forget to heart, unicorn and save the dev.to article to spread your projec
 
 - [ScratchTools](https://github.com/STForScratch/ScratchTools/)
 - [Speckle](https://github.com/specklesystems)
+- [Steampipe](https://github.com/turbot/steampipe)
 
 ## T
 - [Tech Dev Tooling](https://github.com/thisdot/tech-dev-tooling)
