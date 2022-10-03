@@ -126,6 +126,7 @@ Don't forget to heart, unicorn and save the dev.to article to spread your projec
 - [MTL](https://github.com/ZigRazor/MTL)
 - [MultiEmail Backend](https://github.com/MultiEmail/MultiEmail-backend)
 - [Milan](https://github.com/IAmTamal/Milan/)
+- [Mosaic](https://github.com/Anshu9b/Mosaic-Music-based-recommendation-engine)
 
 ## N
 
